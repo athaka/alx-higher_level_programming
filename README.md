@@ -1,7 +1,7 @@
 # Welcome to the Higher Level Programming Language: Python
 ---
 ### This repository contains my Python tasks
-*completed in Python programming language.
+*completed in Python programming language.*
 
 ## Expect to see:
 
