@@ -2,6 +2,8 @@
 # Author: Jonathan Esokawu
 
 """Print 1 to 100 in a unique format; the Fizz Buzz"""
+
+
 def fizzbuzz():
     for num in range(1, 101):
         if num % 3 == 0 and num % 5 == 0:
