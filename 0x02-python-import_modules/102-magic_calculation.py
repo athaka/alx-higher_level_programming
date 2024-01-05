@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
-"""Decode a given bytecode."""
 def magic_calculation(a, b):
+    """Decode a given bytecode."""
     from magic_calculation_102 import add, sub
 
     if a < b:
